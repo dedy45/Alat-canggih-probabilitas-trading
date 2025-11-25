@@ -1610,8 +1610,7 @@ results = pipeline.predict_for_batch(df[:1000])
 4. Improve model accuracy
 
 ### 📞 Support
-
-
+dedy@bamsbung.id
 ---
 
 **ML Prediction Engine Status:** ✅ **PRODUCTION READY**  
