@@ -3,7 +3,7 @@
 > **"Transform Trading Data into Actionable Intelligence"**
 
 Aplikasi analisis probabilitas trading berbasis Dash Plotly yang mengubah data historis trading menjadi insight probabilistik untuk pengambilan keputusan yang lebih baik.
-Demo APP https://analis.bamsbung.id/
+> **Demo APP : https://analis.bamsbung.id/
 ---
 
 ## 🎯 Filosofi & Nilai Inti
